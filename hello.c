@@ -2,7 +2,7 @@
  * Author: Cohan Bonow Braden Hadwiger
  * Date: 2018/08/21
  *
- * A simple hello world program in C
+ * A program that writes our names and major in C
  *
  */
 #include<stdlib.h>
